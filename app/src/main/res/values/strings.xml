@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Emergência</string>
+    <string name="btn_cadas">Cadastrar</string>
+    <string name="txt_name">Nome</string>
+    <string name="txt_rg">Rg</string>
+    <string-array name="spinner_states">
+        <item>Não urgente</item>
+        <item>Pouco urgente</item>
+        <item>Urgente</item>
+        <item>Muito urgente</item>
+        <item>Emergência</item>
+    </string-array>
+    <string name="txt_result">Resultado</string>
+</resources>
